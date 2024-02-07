@@ -1,3 +1,5 @@
+# this class simiply resembles the representation for the provided prediction parameters in task
+
 class PredictionParameters:
     def __init__(self):
         self.__no_of_days=0

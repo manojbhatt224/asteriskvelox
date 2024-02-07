@@ -10,12 +10,9 @@ covidcases=CovidPositiveCases()
 
 
 try:
-   
     covidcases.set_current_pos_cases(os.getenv('datasourcefilepath'))
-
 except:
     print("Please use correct path for file")
-
 while(True):
     print(
     "\n=======================================================\n"

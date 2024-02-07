@@ -1,13 +1,13 @@
-        NSW
+    NSW
 40
-        ACT
+ACT
 1120
-QLD
+    QLD
 923
 VIC
 1320
 SA
-520
+    520
 WA
 630
 TAS
